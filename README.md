@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **project**
+  - 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Keras library**
 
 - 👨‍💻 All of my projects are available at **https://github.com/mkatq?tab=projects**
 
