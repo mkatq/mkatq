@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm dveloper <p style="display: inline;" align="right"> <a  href="https: //twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
+<h1 align="center">Hi 👋, I'm developer <p style="display: inline;" align="right"> <a  href="https: //twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
 
 <h3 align="center"> frontend developer </h3>
 
