@@ -10,11 +10,11 @@
 
 
 
-  - 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **project**
 
-- 🌱 I’m currently learning **Keras library**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at **https://github.com/mkatq?tab=projects**
+- 👨‍💻 All of my projects are available at **https://github.com/mkatq?tab=repositories**
 
 - 📫 How to reach me **mkatq@hotmail.com**
 
