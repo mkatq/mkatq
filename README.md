@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="480" height="137"/>
 </div>
-<h1 align="center"> <p style="display: inline;" align="right"> <a  href="https: //twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
+<h1 align="center"> <p style="display: inline;" align="right"> <a  href="https://mobile.twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
 
 
 
