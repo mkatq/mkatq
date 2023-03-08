@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [mkatq](mkatq)
+- 👨‍💻 All of my projects are available at [mkatq](https://github.com/mkatq/mkatq/projects?query=is%3Aopen)
 
 - 📫 How to reach me **mkatq@hotmail.com**
 
