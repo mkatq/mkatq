@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [@mkatq](@mkatq)
+- 👨‍💻 All of my projects are available at **https://github.com/mkatq?tab=projects**
 
 - 📫 How to reach me **mkatq@hotmail.com**
 
