@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="480" height="137"/>
 </div>
-<h1 align="center"> <p style="display: inline;" align="right"> <a  href="https://mobile.twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
+<h1 align="center"> <p style="display: inline;" align="right"> <a  href="https://twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
 
 
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mkatq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkatq_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meshari-khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshari-khaled" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meshari-khaled/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshari-khaled" height="30" width="40" /></a>
   
   
  
