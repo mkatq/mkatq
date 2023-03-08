@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Devlepor <p style="display: inline;" align="right"> <a  href="https: //twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
+<h1 align="center">Hi 👋, I'm dveloper <p style="display: inline;" align="right"> <a  href="https: //twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> frontend developer </h3>
 
 
 
@@ -34,6 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkatq&show_icons=true&locale=en&layout=compact" alt="mkatq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkatq&show_icons=true&locale=en" alt="mkatq" /></p>
+
 
 
 
