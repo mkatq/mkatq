@@ -7,7 +7,7 @@
 
 
 <h3 align="left">Hi👋</h3>
-<h3 align="left">I'm Meshari Altawfiq, a Software Engineer.</h3>
+<h3 align="left">I'm Meshari Altawfiq, a Software Engineer🧑‍💻.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
