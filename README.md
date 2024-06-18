@@ -6,7 +6,8 @@
 <h1 align="center"> <p style="display: inline;" align="right"> <a  href="https://twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
 
 
-## 👋 Hello! I'm Meshari Altawfiq, a Software Engineer
+<h3 align="left">Hi👋</h3>
+<h3 align="left">I'm Meshari Altawfiq, a Software Engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
