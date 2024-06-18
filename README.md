@@ -6,10 +6,7 @@
 <h1 align="center"> <p style="display: inline;" align="right"> <a  href="https://twitter.com/mkatq_" target="blank"><img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" /></a> </p> </h1> 
 
 
-## 👋 Hello! I'm Meshari Altawfiq
-
-I'm a passionate **Software Engineer**. I specialize in **Mobile Development** focusing on **Flutter**. I am keenly interested in **UI & UX** design and always explore the latest trends in **AI applications**.
-
+## 👋 Hello! I'm Meshari Altawfiq, a Software Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
