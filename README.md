@@ -10,11 +10,14 @@
 <h3 align="left">I'm Meshari Altawfiq, a Software Engineer🧑‍💻. Specializing in mobile and web development. I'm passionate about creating innovative solutions.
 </h3>
 
-<h3 align="left">Connect with me:</h3>
+  
+ <h3 align="left">🚀 My Portfolio:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/meshari-khaled/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshari-khaled" height="30" width="40" /></a>
-  
-  
+  <a href="https://mesharialtawfiq.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+ 
  
 </p>
 <h3 align="left">Languages and Tools:</h3>
