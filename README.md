@@ -4,9 +4,10 @@
 
 <h1 align="center">
   <p style="display: inline;" align="right">
-    <a href="https://twitter.com/mkatq_" target="blank">
-      <img src="https://img.shields.io/twitter/follow/mkatq_?logo=twitter&style=for-the-badge" alt="mkatq_" />
-    </a>
+<a href="https://www.linkedin.com/in/mkatq/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
   </p>
 </h1>
 
